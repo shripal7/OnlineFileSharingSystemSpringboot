@@ -5,9 +5,7 @@ cd React-frontend
  npm start
 
 
-For Running the backend server:
-
-In order to run the Spring boot,
+For Running the Spring Boot Server(Backend):
 
 Firstly create a schema of shripal in your database.
 
