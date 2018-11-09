@@ -1,13 +1,13 @@
 {
-  "name": "logindemo",
+  "name": "dropbox-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.1.2",
     "prop-types": "^15.6.2",
-    "react": "^15.6.2",
-    "react-bootstrap": "^0.31.5",
-    "react-dom": "^15.6.2",
+    "react": "^16.6.1",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.6.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "^2.1.1"
   },
